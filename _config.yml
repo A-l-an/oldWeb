@@ -21,7 +21,7 @@ repository               : "A-l-an/A-l-an.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.PNG"
+  avatar           : "profile.png"
   name             : "Junan XIE"
   pronouns         : # example: "she/her"  
   bio              : "Hi there"
