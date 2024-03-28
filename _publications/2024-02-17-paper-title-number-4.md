@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Designing Unobtrusive Modulated Electrotactile Feedback on Fingertip Edge to Assist Blind and Low Vision (BLV) People in Comprehending Charts"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-05-11
+venue: 'Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24), May 11--16, 2024, Honolulu, HI, USA'
+paperurl: 'https://www.mingmingfan.com/papers/CHI24_Haptic_Guidance_InfoGraphics_PVI.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
